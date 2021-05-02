@@ -38,7 +38,7 @@ function TodoList() {
 
     return (
         <>
-            <h2>What work upto!!</h2>
+            <h2>What's your Goal Today.!!</h2>
             <TodoForm onSubmit={addToDo} />
             <Todo
                 todos={todos}
