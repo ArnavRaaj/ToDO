@@ -12,7 +12,7 @@ function App() {
       </div>
       <footer>
         <div class="footer-msg">
-          Made with <AiFillHeart className="heart-icon"/> by <a href="https://arnavportfolio.netlify.app/" target="_blank" >Arnav</a>
+          Made with <AiFillHeart className="heart-icon" /> by <a href="https://arnavportfolio.netlify.app/" target="_blank" rel="noreferrer">Arnav</a>
         </div>
         <small class="footer-copyright">
           © 2021 AcroUI Designs
