@@ -142,6 +142,8 @@ h2 {
 
 .heart-icon{
   color: red;
+  display: inline;
+  align-items: baseline;
 }
 /* footer */
 
